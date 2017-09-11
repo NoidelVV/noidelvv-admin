@@ -20,7 +20,7 @@ Classe per la generazione delle password per i primi sistemi di NoidelVV (obsole
 Genera un file .docx con tutte le password delle classi partendo da un file .xlsx
 ### Splash.cs
 SplashScreen
-### VVAbbigliamento
+### VVAbbigliamento.cs
 Gestione di VVAbbigliamento
-### VVFoto
+### VVFoto.cs
 Gestione di VVFoto: visualizzazione ordini e stato del pagamento
