@@ -51,7 +51,7 @@ namespace NoidelVV_Admin
 
         private void GetPHClass(string cl)
         {
-            DBConnect("pzfdrieb_foto", "pzfdrieb_foto", "foto@studenti2014");
+            DBConnect("", "", "");
             cmd.CommandText = "SELECT * FROM classes WHERE class = '" + cl + "'";
             DB.Open();
             reader = cmd.ExecuteReader();
